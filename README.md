@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maximus Yudha Prasetyo
+- 👋 Hi, I’m @Yudha
 - 👀 I’m interested in Python, SQL , Meta , HTML , CSS , Js Code.
 - 🌱 I’m currently learning Database Software engineering
 - 📫 How to reach me @panggilajayudh at instagram 
